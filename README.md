@@ -1,2 +1,2 @@
 # demo_git
-demo
+Une demo de git qui se passe bien
